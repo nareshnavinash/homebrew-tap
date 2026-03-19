@@ -5,7 +5,7 @@ class Shelldone < Formula
   desc "Terminal process completion notifier — OS-native notifications when commands finish"
   homepage "https://github.com/nareshnavinash/shelldone"
   url "https://github.com/nareshnavinash/shelldone/archive/refs/tags/v1.3.1.tar.gz"
-  sha256 "ecac64a53c348c00ddf8f96faf98c61134f609c02d7dc71e4302b2bbec3ea5b6"
+  sha256 "2fb63fc185b9189c6f434400c3b03f325937419a82361b52b099d5f936ed3540"
   license "MIT"
   head "https://github.com/nareshnavinash/shelldone.git", branch: "main"
 
